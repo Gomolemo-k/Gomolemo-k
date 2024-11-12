@@ -44,15 +44,16 @@ I'm a self-taught full-stack developer with a passion for creating dynamic and r
 - **Lines Added**: 70,671
 - **Lines Deleted**: 39,450
 
-![Gomolemo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Germangalia&show_icons=true&count_private=true&theme=radical)
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomolemo-k&layout=compact&theme=radical)
 
 
 
+## 📊 Contribution Statistics
 
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Gomolemo-k)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
 
