@@ -36,9 +36,9 @@ I'm a self-taught full-stack developer with a passion for creating dynamic and r
 
 
 
-## ![fxemoji--rocket](https://github.com/user-attachments/assets/d225d121-9034-45e1-b87e-9eb95e02895d)  Github Stats
+## ![fxemoji--rocket](https://github.com/user-attachments/assets/d225d121-9034-45e1-b87e-9eb95e02895d) 📊 Git Statistics
 
-## 📊 Git Statistics
+
 
 - **Total Commits**: 290 (by Gomolemo-k)
 - **Lines Added**: 70,671
@@ -50,10 +50,6 @@ I'm a self-taught full-stack developer with a passion for creating dynamic and r
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomolemo-k&layout=compact&theme=radical)
 
 
-
-## 📊 Contribution Statistics
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Gomolemo-k)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
 
