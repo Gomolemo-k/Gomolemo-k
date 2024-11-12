@@ -38,6 +38,12 @@ I'm a self-taught full-stack developer with a passion for creating dynamic and r
 
 ## ![fxemoji--rocket](https://github.com/user-attachments/assets/d225d121-9034-45e1-b87e-9eb95e02895d)  Github Stats
 
+## 📊 Git Statistics
+
+- **Total Commits**: 290 (by Gomolemo-k)
+- **Lines Added**: 70,671
+- **Lines Deleted**: 39,450
+
 
 
 
